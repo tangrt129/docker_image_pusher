@@ -1,4 +1,5 @@
 nginx
+apache/kafka
 wurstmeister/kafka
 wurstmeister/zookeeper
 #支持指定架构
