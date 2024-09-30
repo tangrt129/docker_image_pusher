@@ -1,4 +1,3 @@
 nginx
-kafka
 #支持指定架构
 --platform=linux/x86_64 xiaoyaliu/alist
