@@ -2,5 +2,6 @@ nginx
 apache/kafka
 wurstmeister/kafka
 wurstmeister/zookeeper
+arm64v8/ubuntu:latest
 #支持指定架构
 --platform=linux/x86_64 xiaoyaliu/alist
